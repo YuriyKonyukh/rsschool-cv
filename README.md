@@ -1,3 +1,6 @@
-# rsschool-cv
-Repository R S cool
-https://YuriyKonyukh.github.io/rsschool-cv/cv
+# rsschool-cv  
+
+Repository R S chool  
+
+[link](https://YuriyKonyukh.github.io/rsschool-cv/cv)  
+
