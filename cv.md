@@ -14,13 +14,13 @@ HTML5, CSS3, JavaScript, Git.
 ## Code Example:  
 
     const whatIsTheColor = (color) => {  
-        if (color === 'green' || color === 'blue') {  
-        return 'summer';  
-        } else if (color === 'red' || color === 'orange') {  
-        return 'autumn';  
-        }  
-        return 'winter';  
-        };  
+    if (color === 'green' || color === 'blue') {  
+    return 'summer';  
+    } else if (color === 'red' || color === 'orange') {  
+    return 'autumn';  
+    }  
+    return 'winter';  
+    };  
   
 
 ## Education:  
