@@ -18,13 +18,13 @@
 ----
 #### Code Example
 ``` 
-List filtering
-filter_list([1,2,'a','b']) == [1,2]
-filter_list([1,'a','b',0,15]) == [1,0,15]
-filter_list([1,2,'aasf','1','123',123]) == [1,2,123]
-
-def filter_list(l):
-    return [i for i in l if type(i) is int]
+List filtering<br>
+filter_list([1,2,'a','b']) == [1,2]<br>
+filter_list([1,'a','b',0,15]) == [1,0,15]<br>
+filter_list([1,2,'aasf','1','123',123]) == [1,2,123]<br>
+<br>
+def filter_list(l):<br>
+    return [i for i in l if type(i) is int]<br>
 ```
 ----
 #### Education
