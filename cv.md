@@ -6,14 +6,15 @@
 # Yuriy Konyukh
 ### _The experience of working as a system administrator taught me how to work in multitasking mode, quickly find high-quality solutions for complex problems. I have knowledge about **Django framework** and the development environment of Python._
 ****
+#### Contact information:
+  * Phone: +37529 2692389
+  * E-mail: yuriykonyukh@gmail.com
+  * Telegram: @Yuriy_Konyukh
+****
 #### Hard Skills
-* Python
-* Django 
-* Sqlite3
-* MySQL
-* HTML
-* CSS
-* JS
+* Python, Django
+* MySQL, PostgreSQL
+* HTML, CSS, JS
 ----
 #### Code Example
 ``` 
@@ -31,7 +32,7 @@ Higher State College of Communications
 ****
 #### Courses
 "IT-Overone" [*Python-developer*](https://live.staticflickr.com/65535/52490720406_e16ed0960b_c.jpg) 2021<br>
-Online School of Maxim Sokolov [*Essential of UX/UI Design; Webflow + Figma*](https://live.staticflickr.com/65535/52491272073_183305510f_b.jpg)
+Online School of Maxim Sokolov [*Essential of UX/UI Design; Webflow + Figma*](https://live.staticflickr.com/65535/52491272073_183305510f_b.jpg) 2022
 ****
 #### Languages
 *English* B1<br>
