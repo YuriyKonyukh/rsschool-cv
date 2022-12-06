@@ -15,7 +15,7 @@
 * Python, Django
 * MySQL, PostgreSQL
 * HTML, CSS, JS
-----
+****
 #### Code Example
 ``` 
 
