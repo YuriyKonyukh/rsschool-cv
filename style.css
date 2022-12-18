@@ -48,7 +48,7 @@ body {
     transition: color 0.5s;
 }
 
-.nav-item a:hover {
+.nav-link:hover {
     color: rgb(228, 208, 30);
 }
 
