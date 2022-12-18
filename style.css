@@ -59,10 +59,23 @@ body {
 .section {
     width: 50%;
 }
+.contact-phone_wrapper {
+    display: flex;
+}
 
+.contact-phone, .contact-mail, .contact-whatsapp {
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+}
+
+.contact-mail {
+    padding-left: 0;
+}
 .contact-list, .skills-list, .courses-list, .languages-list {
     list-style-type: none;
     margin-bottom: 50px;
+    padding-left: 0;
 }
 
 .contact-list li, .skills-list li, .courses-list li, .languages-list li {
