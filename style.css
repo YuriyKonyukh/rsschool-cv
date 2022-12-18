@@ -1,0 +1,46 @@
+html {
+    scroll-behavior: smooth; 
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.nav-list {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    list-style: none;
+}
+
+.nav-link {
+    padding: 0 20px;
+    line-height: none;
+    text-decoration: none;
+}
+
+.nav-item a {
+    color: #829985;
+    text-decoration: none;  
+    transition: color 0.5s;
+}
+
+.nav-item a:hover {
+    color: #e7c011;
+}
+
