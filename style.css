@@ -16,6 +16,9 @@ body {
     box-sizing: border-box;
 }
 
+.header {
+    background-color: rgb(83, 77, 77);
+}
 .container {
     max-width: 1440px;
     margin: 0 auto;
@@ -36,6 +39,7 @@ body {
     padding: 0 20px;
     line-height: none;
     text-decoration: none;
+    color: aliceblue;
 }
 
 .nav-item a {
@@ -45,7 +49,7 @@ body {
 }
 
 .nav-item a:hover {
-    color: #e7c011;
+    color: rgb(228, 208, 30);
 }
 
 .main-container {
@@ -83,14 +87,22 @@ body {
     margin-bottom: 10px;
 }
 
+.footer {
+    margin-top: 100px;
+    background-color: rgb(228, 208, 30);
+    
+}
+
 .footer-info {
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 
 .footer-github {
     text-decoration: none;
 }
+
 @media (max-width: 768px) {
     .section {
         width: 100%;
