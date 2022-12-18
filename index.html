@@ -30,45 +30,81 @@
 
     <main class="main">
         <div class="container">
-            <section class="section">                
+            <section class="about">                
                 <img src="./assets/img/Avatar.png" alt="Avatar" class="image-avatar">
-                <h1 class="section-h1">Yuriy Konyukh</h1>
-                <h2 class="section-h2">Frontend developer</h2>
-                <p>The experience of working as a system administrator taught me how to work in multitasking mode,<br>quickly find high-quality solutions for complex problems. I have knowledge about Django framework<br> and the development environment of Python.</p>   
+                <div>
+                    <h1 class="section-h1">Yuriy Konyukh</h1>
+                    <h2 class="section-h2">Frontend developer</h2>
+                    <p>The experience of working as a system administrator taught me how to work in multitasking mode,<br>quickly find high-quality solutions for complex problems. I have knowledge about Django framework<br> and the development environment of Python.</p>
+                </div>
+                
             </section>
+            
+            <div class="main-container">
+                <section class="section" id="contacts">
+                    <h3 class="section-h3">Contact information</h3>
+                    <ul class="contact-list">
+                        <li>Phone: +375 (29) 2692389</li>
+                        <li>E-mail: yuriykonyukh@gmail.com</li>
+                        <li>Telegram: @Yuriy_Konyukh</li>
+                    </ul>
+                </section>
 
-            <section class="section" id="contacts">
-                <h3 class="section-h3">Contact information</h3>
-            </section>
+                <section class="section" id="skills">
+                    <h3 class="section-h3">Hard skills</h3>
+                    <ul class="skills-list">
+                        <li>Python, Django</li>
+                        <li>MySQL, PostgreSQL</li>
+                        <li>HTML, CSS, JS</li>
+                    </ul>
+                </section>
 
-            <section class="section" id="skills">
-                <h3 class="section-h3">Hard skills</h3>
-            </section>
+                <section class="section" id="code">
+                    <h3 class="section-h3">Code example</h3>
+                    <p>
+                        <code>
+                            List filtering:<br>
+                                filter_list([1,2,’a’,’b’]) == [1,2]<br>
+                                filter_list([1,’a’,’b’,0,15]) == [1,0,15]<br>
+                                filter_list([1,2,’aasf’,’1’,’123’,123]) == [1,2,123]<br>
+                                <br>        
+                                def filter_list(l):<br>
+                                    return [i for i in l if type(i) is int]
+                        </code>
+                    </p>
+                </section>
 
-            <section class="section" id="code">
-                <h3 class="section-h3">Code example</h3>
-            </section>
+                <section class="section" id="education">
+                    <h3 class="section-h3">Education</h3>
+                    <p>Higher State College of Communications</p>
+                </section>
 
-            <section class="section" id="education">
-                <h3 class="section-h3">Education</h3>
-            </section>
+                <section class="section" id="courses">
+                    <h3 class="section-h3">Courses</h3>
+                    <ul class="courses-list">
+                        <li>“Overone” Python-developer 2021</li>
+                        <li>Maxim Sokolov Essential of UX/UI Design; Webflow + Figma 2022</li>
+                    </ul>
+                </section>
 
-            <section class="section" id="courses">
-                <h3 class="section-h3">Courses</h3>
-            </section>
-
-            <section class="section" id="languages">
-                <h3 class="section-h3">Languages</h3>
-            </section>
+                <section class="section" id="languages">
+                    <h3 class="section-h3">Languages</h3>
+                    <ul class="languages-list">
+                        <li>English B1</li>
+                        <li>Italiano B2</li>
+                    </ul>
+                </section>
+            </div>    
         </div>
     </main>
 
     <footer class="footer">
-        <div class="container">
-
+        <div class="container footer-info">
+            <a href="https://github.com/YuriyKonyukh" target="_blank" class="footer-github">GitHub</a>
+            <p>2022</p>
+            <a href="https://rs.school/js/" target="_blank"><img src="./assets/svg/rs.svg" alt="RS logo" width="100" height="50"></a>
         </div>
     </footer>
 
 </body>
-
 </html>
