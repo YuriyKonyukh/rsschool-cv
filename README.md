@@ -1,2 +1,2 @@
 # rsschool-cv
-This is public repository for Markdown & CV task
+https://YuriyKonyukh.github.io/rsschool-cv/
