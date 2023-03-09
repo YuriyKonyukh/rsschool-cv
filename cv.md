@@ -40,6 +40,7 @@ Higher State College of Communications
 #### Courses
 "IT-Overone" [*Python-developer*](https://live.staticflickr.com/65535/52490720406_e16ed0960b_c.jpg) 2021<br>
 Online School of Maxim Sokolov [*Essential of UX/UI Design; Webflow + Figma*](https://live.staticflickr.com/65535/52491272073_183305510f_b.jpg) 2022
+JS/FE Pre-School 2022Q4 RSSCHOOL
 ****
 #### Languages
 *English* B2<br>
