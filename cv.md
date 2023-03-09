@@ -42,5 +42,5 @@ Higher State College of Communications
 Online School of Maxim Sokolov [*Essential of UX/UI Design; Webflow + Figma*](https://live.staticflickr.com/65535/52491272073_183305510f_b.jpg) 2022
 ****
 #### Languages
-*English* B1<br>
+*English* B2<br>
 *Italiano* B2
